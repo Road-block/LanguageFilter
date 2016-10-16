@@ -1,0 +1,9 @@
+## Interface: 11200
+## Version: 0.1
+## Author: Roadblock
+## Title: Language Filter
+## Notes: Filter foreign language text from chat channels
+## SavedVariablesPerCharacter: LanguageFilterDBPC
+
+filters.lua
+core.lua
